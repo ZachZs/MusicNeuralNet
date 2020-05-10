@@ -4,6 +4,14 @@ This is a collaborative project during our final semester at graduate school. We
 
 ---
 
+### Notebook Descriptions
+
+-LyricsAnalysis.ipynb: A brief look into how the data is structured
+-LyricsDTM.ipynb: Creating a SpaCy pipeline and investigating possible ways to vectorize the lyrics
+-NeuralNetworkAttempts.ipynb: The SpaCy pipeline and the different types of networks that were created
+
+---
+
 ### Dataset
 
 [380,000+ lyrics from MetroLyrics](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/)
